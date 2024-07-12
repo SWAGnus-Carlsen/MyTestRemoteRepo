@@ -7,4 +7,6 @@ My third commit in the repo directly from Github
 
 My fourth commit in the repo
 
-DevFork commit
+DevFork commit 1
+
+DevFork commit 2
