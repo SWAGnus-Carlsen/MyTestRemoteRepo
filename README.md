@@ -9,7 +9,7 @@ My fourth commit in the repo
 
 Another change 1
 
-DevFork commit 1
+DevFork commit 1, 2
 
 DevSourceTree commit 1
 
