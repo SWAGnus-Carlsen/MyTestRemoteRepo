@@ -8,8 +8,8 @@ My third commit in the repo directly from Github
 My fourth commit in the repo
 
 Another change 1
-=
-DevFork commit 1, 2, 3
+
+DevFork commit 1, 2, 3, 5
 
 DevSourceTree commit 1
 
