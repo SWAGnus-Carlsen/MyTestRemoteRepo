@@ -13,6 +13,7 @@
 		124129AB2C6AA8E10096E6A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 124129A92C6AA8E10096E6A1 /* Main.storyboard */; };
 		124129AD2C6AA8E40096E6A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 124129AC2C6AA8E40096E6A1 /* Assets.xcassets */; };
 		124129B02C6AA8E40096E6A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 124129AE2C6AA8E40096E6A1 /* LaunchScreen.storyboard */; };
+		12D691BF2C6D78D2009AA1E6 /* MyFirstSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D691BE2C6D78D2009AA1E6 /* MyFirstSwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		124129AC2C6AA8E40096E6A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		124129AF2C6AA8E40096E6A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		124129B12C6AA8E40096E6A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12D691BE2C6D78D2009AA1E6 /* MyFirstSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstSwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				124129AC2C6AA8E40096E6A1 /* Assets.xcassets */,
 				124129AE2C6AA8E40096E6A1 /* LaunchScreen.storyboard */,
 				124129B12C6AA8E40096E6A1 /* Info.plist */,
+				12D691BE2C6D78D2009AA1E6 /* MyFirstSwiftUIView.swift */,
 			);
 			path = StoryboardProject;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				124129A82C6AA8E10096E6A1 /* ViewController.swift in Sources */,
 				124129A42C6AA8E10096E6A1 /* AppDelegate.swift in Sources */,
 				124129A62C6AA8E10096E6A1 /* SceneDelegate.swift in Sources */,
+				12D691BF2C6D78D2009AA1E6 /* MyFirstSwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
